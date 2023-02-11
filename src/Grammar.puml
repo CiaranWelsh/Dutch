@@ -1,0 +1,70 @@
+@startuml
+'https://plantuml.com/class-diagram
+
+class Linguistics
+class Syntax
+class Phonetics
+class Phenology
+class Semantics
+
+Linguistics *-- Syntax
+Linguistics *-- Phenology
+Linguistics *-- Phonetics
+Linguistics *-- Semantics
+
+class WordSyntax
+class SentenceSyntax
+class WordClasses
+abstract class Clause
+class MainClause
+class SubordinateClause
+class Predicate
+Syntax *-- WordSyntax
+Syntax *-- SentenceSyntax
+SentenceSyntax *--- WordClasses
+SentenceSyntax *-- Clause
+
+Clause <|-- MainClause
+Clause <|-- SubordinateClause
+
+
+class Article
+class Subject
+class Noun
+class Adjective
+class Preposition
+class Object
+class DirectObject
+class IndirectObject
+class Conjunction {
+    + AND / OR / NOT
+}
+class Complementizer {
+    + That
+}
+
+Object <|-- DirectObject
+Object <|-- IndirectObject
+class Verb
+
+class TransitiveVerb
+class IntransitiveVerb
+
+
+Verb <|-- TransitiveVerb
+Verb <|-- IntransitiveVerb
+
+Clause *-- Subject
+Clause *-- Predicate
+Predicate *-- Object
+
+Predicate *-- Verb
+
+WordClasses *-- Article
+WordClasses *-- Noun
+WordClasses *-- Adjective
+WordClasses *-- Preposition
+WordClasses *-- Conjunction
+WordClasses *-- Complementizer
+
+@enduml

@@ -1,0 +1,479 @@
+Dutch, English
+welkom (in), welcome (to)
+goedemorgen ,good morning
+allemaal, everyone
+de cursus, coursé
+de, the
+Nederlands ,Dutch
+ik, I
+ben (zijn), am
+en, and
+jullie, your (plural)
+de docent, teacher
+jullie, you (plural)
+hebben (hebben), have
+twee, two
+docenten (docent), teachers
+andere, other
+is (zijn), is
+hij, he
+geeft les (lesgeven), teaches
+dagen (de dag), days
+drie ,three
+we, we
+beginnen (beginnen), begin / start
+met, with
+kennismaken, get to know
+wie, who
+ben (zijn), are
+jij, you
+wat, what
+jouw, your (singular)
+de, naam name
+mijn, my
+dag, hello
+je, your (singular)
+de voornaam, first name
+de achternaam, surname
+uit, from
+welk, which
+het land, country
+Engeland, Englandkom (komen)
+de buurman, Neighbour
+van, of
+hoe heet jij?, what is your name?
+heet (heten), is called
+waar … vandaan, where ... from
+waar, where
+woon (wonen),live
+nu, now
+in, in
+het adres, the adderss
+op, on
+het nummer, the number
+het antwoord, the answer
+nee, no
+de postcode, the postcode
+u, you
+mevrouw, Ms / Mrs
+woont (wonen), live
+ook, also
+zeg (zeggen), to say
+maar, but
+hoor, hear
+ja, yes
+hier, here
+al, already
+twintig, twenty
+het jaar, the year
+oké, okay
+gaan verder / verdergaan, go on / continue
+de les, the lesson / class
+heeft (hebben), to have
+iedereen, everyone
+het boek, the boook
+het, the
+zitten (zitten), to sit
+de kantine, the cantine
+deze, this
+de plaats, the place
+vrij, free
+hoor, hear
+zoeen, such an
+lekker, tasty
+het kopje (de kop), the cup
+de koffie, the coffee
+of, or
+welke, which
+eigenlijk, actually
+vandaag, today
+donderdag, Thursday
+augustus, august
+morgen, tomorrow
+ik ben jarig (jarig zijn), It is my birthday
+wat leuk, how nice
+december, December
+dus, so/therefore
+de winter, winter
+krijg (krijgen), get / receive
+nog, any
+het bezoek, visitor
+de broer, brother
+jonger (jong), younger
+maar, but
+wel, certainly
+langer (lang), longer
+nog meer, any more
+broers (broer), brothers
+zussen (zus), sisters
+het type, type
+kort, short
+kijk (kijken), look
+de foto, the photo
+heel, all
+ander, other
+kort blond, short blonde
+het haar, the hair
+donker, dark
+de zomer, summer
+de winter, winter
+herfst, autum
+lente, spring
+de ouders komen op bezoek, the parents come to visit
+op dit moment, at this time
+doen, doing
+niet vertel (vertellen), don't tell
+dat wil (willen), that wants to
+laat, late
+11.00 uur, eleven oclock
+moeten (moeten), must
+weer, weather
+naar, unpleasant
+familierelaties, family relationships
+het gezin, the family
+de ouders, The parents
+de vader, the father
+de moeder, the mother
+de man, the man
+de echtgenoot, the husband
+de vrouw, the women
+de echtgenote, the wife
+het kind, the child
+de zoon, the son
+de dochter, the daughter
+de zus, sister
+de familie, the family
+de schoonzus, sister-in-law
+de zwager, brother-in-law
+de opa, grandfarther
+de oma, grandmother
+het kleinkind, grandchild
+de oom, uncle
+de tante, auntie
+de neef, cousin
+de nicht, niece
+nul, zero
+één, one
+twee, two
+drie, three
+vier, four
+vijf, five
+zes, six
+zeven, seven
+acht, eight
+negen, nine
+tien, ten
+elf, eleven
+twelve, twaalf
+dertien, thirteen
+veertien, fourteen
+vijftien, fifteen
+zestien, sixteen
+zeventien, seventeen
+achttien, eighteen
+negentien, ninteen
+twintig, twenty
+honderd, one hundred
+vierentwintig, 24
+duizend, 1000
+eenentwintig, 21
+tweeëntwintig, 22
+dertig, 30
+veertig, 40
+vijftig, 50
+zestig, 60
+zeventig, 70
+tachtig, 80
+negentig, 90
+honderd, 100
+viert (vieren),to celebrate
+de verjaardag, the birthday
+het café, the cade
+samen, together
+gefeliciteerd, congratulations
+dank je wel, thank you
+dit is, this is
+kennis te maken (kennismaken), nice to meet you
+kennen (kennen), know
+elkaar, each other
+drinken, drinks
+ik trakteer (trakteren), my treat
+wil graag (graag willen), wants to
+de cola, coke
+biertje (het bier), beer
+neem (nemen), name
+rode (rood), red
+de wijn, the wine
+roep (roepen), to call
+de ober, the waiter
+mag, allowed
+mogen, to be allowed to
+bestellen, to order
+alstublieft, please (formal)
+Franse (Frans), french
+Spaanse (Spaans), spanish
+Zuid-Afrikaanse, south african
+de, the
+nou, well then
+proost, cheers
+op je verjaardag, happy birthday
+bedankt, thnks
+het poosje, short while
+later (laat), later
+zulten (zullen), shall
+nog een keer, again
+dat is, that is
+goed, good
+het idee, the idea
+hetzelfde, the same
+ja graag, yes please
+dit, this
+het rondje, the round
+betaal (betalen), pay
+geef (geven), give
+nog maar, only
+het glas, the glass
+afrekenen,to settle
+alles, everything
+daarom, therefore
+eerste, first
+tweede, second
+de straat, the street
+vriend, friend
+komt tegen (tegenkomen), come across
+hé, hey
+geleden,past
+zeg, say
+prima, fine
+jou, you
+het gaat wel, I'm fine
+problemen, problems
+het probleem, the problem
+buren, neighbour
+niet zo, not so
+belangrijk, important
+gaan (gaan), go
+de week, the week
+boodschappen, grocery shopping
+doen, doing
+de markt, the market
+de groenteboer, the green grocer
+er, there
+wie is er aan de beurt?, who's next?
+de beurt, turn
+alsjeblieft, please
+kleine (klein), small
+de courgette, courgette
+gele (geel), yellow
+paprika's (de paprika), pepper
+mooie (mooi), nice
+tomaten (de tomaat), tomato's
+altijd, always
+sorry, sorry
+(na)tuurlijk, of course
+anders nog iets?, anything else?
+typisch, typical
+het gerecht, dish
+buitenlanders, foreigners
+de buitenlander, the foreigner
+de stamppot, stamppot
+de andijvie, endive
+spekjes (het spekje), bacon
+vaak, often
+heerlijk, delicious
+goedkope(goedkoop), cheap
+hoeveel, how many
+heb nodig (nodig hebben), have need
+personen (de persoon), people
+ongeveer, about
+halve (half), half
+de kilo, kilo
+aardappels(de aardappel), potatoes
+de slager, butcher
+was (zijn), was
+de bloemkool, cauliflower
+het bakje (de bak), punnet
+champignons(de champignon), mushrooms
+de peterselie, parsely
+het bosje (de bos), a bunch
+verder nog iets?, Anythig else?
+boontjes(het boontje), beans
+verse (vers), fresh
+de knoflook, garlic
+komkommers(de komkommer), cucumber
+de euro, euro
+wel, quite
+genoeg, enough
+waarnaartoe, where to
+de cent, cent
+erbij, with it
+geeft niet, doesn't matter
+prettige (prettig), nice
+het weekend, the weekend
+groente, vegetables
+de courgette, the courgette
+de aubergine, the aubergine or eggplant
+de paprika, bell pepper
+de tomaat, tomato
+de andijvie, endive
+de aardappel, potato
+de bloemkool, cauliflower
+de champignon, mushroom
+de peterselie, parsely
+het boontje, punnet
+de sperzieboon, green bean
+de aardbei, strawberry
+de druif, grape
+de perzik, peach
+de pruim, plum
+de kers, cherry
+de appel, apple
+de knoflook, garlic
+de komkommer, cucumber
+de sla, lettuce
+de broccoli, broccoli
+de kool, cabbage
+de witte kool, while cabbage
+de rode kool, red cabbage
+de boerenkool, curley kale
+de zuurkool, sauerkraut
+de ui, onion
+de wortel, carrot
+de peer, pear
+de sinaasappel, pineapple
+de mandarijn, orange
+de kiwi, kiwi
+de banaan, bananna
+de vriendin, (girl)friend
+de salade, salad
+het restaurant, restaurant
+de kip, chicken
+de serveerster, waitress
+de rijst, rice
+de tafel, table
+o nee ,oh no
+ons, us
+geen, no
+bij, at
+het, vlees meat
+het, raam window
+toch, after all
+gaan zitten, sit down
+vegetarische (vegetarisch), vegetarian
+de menukaart, menu
+alvast, in the meantime
+de dagschotel ,today's special
+te, to
+kiezen, choose
+het mineraalwater, mineral water
+eet smakelijk, bon appetit
+ik heb dorst, I'm thirsty
+het, mes knife
+de dorst, thirst
+de vork, fork
+mij, me
+momentje (het moment), one moment
+alleen, only / just
+het hoofdgerecht, main course
+de lepel, spoon
+ik heb honger ,I'm hungry
+halen, fetch
+de honger, hunger
+beetje, a little
+het voorgerecht, starter
+moeilijk, difficult
+misschien, perhaps
+het gaat wel, it's okay
+het nagerecht, dessert
+de soort, kind
+de mosterdsoep, mustard
+soup de paella, paella
+de mosterd, mustard
+oud (houden) ,van like
+de soep, soup
+de mosselen, mussels
+erg, very
+proef (proeven), try
+als ,as
+de biefstuk, steak
+een beetje, abit
+frietjes (het frietje), chips
+vet, greasy / rich
+eh, um
+het toetje, dessert
+het ijs, ice cream
+vruchten (de vrucht), fruit
+de chocola, chocolate
+de slagroom, cream
+zonder, without
+de rekening, the bill
+Laat de rest maar zitten, that's fine / keep the change
+laten, leave
+de rest, the rest
+dank u, thank you
+de avond, good evening
+normaal, usually
+soms, soms
+groter (groot), taller
+de kleur, the colour
+wat voor, what kind?
+het model, the mode
+lichte (licht), light
+laag, layer
+verschillende (verschillend), different
+merken (het merk), to notice
+probeert, tries
+proberen, trying
+ze, she or them
+allebei, both
+maar even, just for a while
+ergens, Somewhere
+passen, try on
+paskamers (de paskamer), changing rooms
+zitten, fit
+beter, better
+dan, than
+die, that
+hem, it
+wijd, wide
+kleinere (klein), Smaller
+het spijt me, i'm sorry
+kleinste (klein), smallest
+dit, this
+eventueel, if necessary
+ruilen, exchange
+binnen, within
+de bon, receipt
+T-shirts (het T-shirt), t-shirt
+liggen, are (lie)
+allerlei, all kinds of
+wit, white
+zwart, black
+roze, pink
+groen, green
+blauw, blue
+zo, so
+beslissen, decide
+staat me het best (staan), suits me best
+het best (goed), best
+pinnen, pay by card
+kleuren, colours
+wit, white
+zwart, black
+grijs, grey
+rood, red
+blauw, blue
+geel, yellow
+groen, green
+bruin, brown
+paars, purple
+roze, pink
+oranje, orange
+donkerblauw, dark blue
+donkerbruin, dark drown
+lichtgeel, light green
+lichtgroen, light green
+effen, solit
+geruit, checkered
+gebloemd, flowered
+gestreept, striped

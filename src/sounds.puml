@@ -1,0 +1,51 @@
+@startuml
+'https://plantuml.com/class-diagram
+left to right direction
+
+package dutch {
+    class ie_d {
+        ziek
+    }
+
+    class ee_d {
+        steen
+    }
+    class oe_d {
+        boek
+    }
+}
+package English {
+    class ee_e {
+        seek
+    }
+
+    class a_e {
+        main
+    }
+
+    class oo_e {
+        boot
+    }
+
+}
+
+ie_d -- ee_e
+ee_d -- a_e
+oe_d -- oo_e
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@enduml
